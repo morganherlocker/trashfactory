@@ -1,0 +1,27 @@
+{
+  "name": "trashfactory",
+  "version": "1.0.0",
+  "description": "scripts for generating random images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morganherlocker/trashfactory.git"
+  },
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/trashfactory/issues"
+  },
+  "homepage": "https://github.com/morganherlocker/trashfactory#readme",
+  "dependencies": {
+    "chance": "^1.0.3",
+    "d3": "^3.5.17",
+    "get-pixels": "^3.3.0",
+    "request": "^2.72.0",
+    "save-pixels": "^2.3.3",
+    "zeros": "^1.0.0"
+  }
+}
